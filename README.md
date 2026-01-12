@@ -20,4 +20,4 @@ Diagrama:
 
 Tecnologias utilizadas:
   
-  - ChatGPT, Visual Studio Code, Draw.io.
+  - Vue3, Django, Visual Studio Code, Draw.io.
